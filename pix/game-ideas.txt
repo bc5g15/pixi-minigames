@@ -1,0 +1,26 @@
+1. Slide lock
+Drag the icon across the highlighted path to solve the puzzle
+Do I want to allow pure dragging but reset the position if the player
+slides outside the path, or fix the point so that it can only be dragged
+along the path?
+
+Dragging along a path might be easier, although I'll have to think
+about how it can be achieved.
+PROTOTYPE READY
+
+2. Rotary button lock
+light up all the buttons to open the lock
+the lights will only stay lit if you light up the
+next one in the sequence
+PROTOTYPE READY
+
+3. Picture code lock
+A numerical lock, except the numbers are replaced
+with weird symbols.
+
+4. Switch bar lock
+Sequence of toggle buttons
+Each button has an on/off state which adds numbers
+to a couple of bars in the viewpoint.
+The player must get both bars into an acceptable state,
+which requires the correct combination of switches.

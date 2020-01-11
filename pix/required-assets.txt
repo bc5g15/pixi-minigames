@@ -1,0 +1,15 @@
+1.
+- Sprite or circle to represent starting point
+- Line to represent path
+
+2.
+- Button up and down sprite
+- Light on and off sprite/graphic
+
+3.
+- Image for each strange icon I'm using
+Perhaps I could reuse the button from 2?
+
+4.
+- Switch toggled on/off
+- Bar with green segment to represent correct area
